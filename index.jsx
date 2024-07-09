@@ -8,6 +8,7 @@ const HomeScreen = () => {
     <View>
       <Text>HomeScreen - Not Implemented Yet</Text>
       <Text> esta es otra implementacion</Text>
+      <Text> esta es otra implementacion</Text>
     </View>
   );
 };
